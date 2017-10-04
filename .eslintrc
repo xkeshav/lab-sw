@@ -1,0 +1,30 @@
+{
+    "parser": "babel-eslint",
+    "extends": "eslint:recommended",
+    "env": {
+        "browser": true,
+        "worker": true,
+        "node": true,
+        "mongo": true,
+        "es6": true
+    },
+    "globals": {
+      "angular": true,
+      "module": true,
+      "inject": true,
+      "moment": true,
+      "saveAs": true,
+      "require": true,
+      "idb": true,
+      "QUnit": true
+    },
+    "rules": {
+        "strict": 0,
+        "wrap-iife": [0, "any"],
+        "quotes": [0, "double"],
+        "indent": [0, "tab"],
+        "linebreak-style": [0, "unix"],
+        "semi": [2, "always"],
+        "no-console": 0
+    }
+}

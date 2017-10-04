@@ -1,0 +1,1346 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"addEventListener\taddEventListener()"
+			],
+			[
+				"files",
+				"filesToCache"
+			],
+			[
+				"readres",
+				"readResponseAsText"
+			],
+			[
+				"appen",
+				"appendChild\t( node: Node ): Node Node"
+			],
+			[
+				"create",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"getElemen",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"consol",
+				"console.\tconsole.groupEnd()"
+			],
+			[
+				"group",
+				"groupEnd"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"backgorun",
+				"background-color"
+			],
+			[
+				"sign",
+				"signupFormData"
+			],
+			[
+				"keysto",
+				"keyStoreSelection"
+			],
+			[
+				"key",
+				"keyStoreSelection"
+			],
+			[
+				"an",
+				"angular\tAngular.js"
+			],
+			[
+				"angu",
+				"angular\tAngularJS"
+			],
+			[
+				"ang",
+				"angular\tAngularJS"
+			],
+			[
+				"bs",
+				"bds-s\tborder-style: solid;"
+			],
+			[
+				"fo",
+				"forEach\tforEach()"
+			],
+			[
+				"p",
+				"prompt\tprompt()"
+			],
+			[
+				"set",
+				"setTimeout\tsetTimeout()"
+			],
+			[
+				"cl",
+				"console.\tconsole.log()"
+			],
+			[
+				"err",
+				"error\tconsole.error()"
+			],
+			[
+				"change",
+				"changeID"
+			],
+			[
+				"total",
+				"totalCount"
+			],
+			[
+				"filter",
+				"filteredData"
+			],
+			[
+				"order",
+				"orderdData"
+			],
+			[
+				"appLis",
+				"app_list"
+			],
+			[
+				"cache",
+				"cacheName"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"uibModal",
+				"uibModalInstance"
+			],
+			[
+				"baff",
+				"baffle-ui/"
+			],
+			[
+				"con",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "service-worker-lab/app/index.html",
+			"settings":
+			{
+				"buffer_size": 2094,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "o",
+		"selected_items":
+		[
+			[
+				"o",
+				"Gist: Open Gist"
+			],
+			[
+				"theme",
+				"Boxy Theme: Extras"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"set syntax txt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"gist",
+				"Gist: Add File to Gist"
+			],
+			[
+				"sublimelinter se",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"eslint",
+				"ESLint"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"toggle li",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"markdown tab",
+				"MarkdownEditing: Add Missing Link Labels"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"gist up",
+				"Gist: Update File"
+			],
+			[
+				"gist pu",
+				"Gist: Update File"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"format js",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Validate"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"clip",
+				"Clipboard Manager: Show History"
+			],
+			[
+				"w3c",
+				"W3C Validators: Validate SVG 1.1"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"angular.js",
+				"Snippet: Angular.js"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"keyset",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"quo",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"java",
+				"Build With: JavaC"
+			],
+			[
+				"set syntax java",
+				"Set Syntax: JavaScript (DOM)"
+			],
+			[
+				"mard",
+				"Set Syntax: Markdown"
+			],
+			[
+				"javasc",
+				"Format: Javascript"
+			],
+			[
+				"them",
+				"Select Theme"
+			],
+			[
+				"sele",
+				"Select Theme"
+			],
+			[
+				"select",
+				"Select Theme"
+			],
+			[
+				"jshin",
+				"JSHint: Clear Annotations"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"list pak ",
+				"Package Control: List Packages"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"change",
+				"ChangeQuotes"
+			],
+			[
+				"chan",
+				"ChangeQuotes"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: console.log()"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"packge",
+				"Package Control: List Packages"
+			],
+			[
+				"acti",
+				"Boxy Theme: Activation"
+			],
+			[
+				"jsp",
+				"JSHint: Set `node` Path"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"gutter",
+				"GutterColor: Fix Current Color Scheme"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 558.0
+	},
+	"console":
+	{
+		"height": 247.0,
+		"history":
+		[
+			"ChangeQuotes",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/opt/pwa-training-labs",
+		"/opt/pwa-training-labs/service-worker-lab",
+		"/opt/pwa-training-labs/service-worker-lab/app",
+		"/opt/pwa-training-labs/service-worker-lab/app/js"
+	],
+	"file_history":
+	[
+		"/opt/pwa-training-labs/responsive-images-lab/app/styles/main.css",
+		"/opt/pwa-training-labs/responsive-images-lab/app/index.html",
+		"/opt/pwa-training-labs/responsive-design-lab/app/styles/main.css",
+		"/opt/pwa-training-labs/responsive-design-lab/app/index.html",
+		"/opt/pwa-training-labs/workbox-lab/project/build/service-worker.js",
+		"/opt/pwa-training-labs/workbox-lab/project/gulpfile.js",
+		"/opt/pwa-training-labs/indexed-db-lab/app/index.html",
+		"/opt/pwa-training-labs/indexed-db-lab/solution/js/main.js",
+		"/opt/pwa-training-labs/workbox-lab/project/app/service-worker.js",
+		"/opt/pwa-training-labs/.eslintrc",
+		"/opt/pwa-training-labs/indexed-db-lab/app/js/idb.js",
+		"/opt/pwa-training-labs/indexed-db-lab/app/test/test.html",
+		"/opt/pwa-training-labs/indexed-db-lab/04-4-get-data/js/main.js",
+		"/opt/pwa-training-labs/indexed-db-lab/app/js/main.js",
+		"/opt/pwa-training-labs/service-worker-lab/app/index.html",
+		"/opt/pwa-training-labs/lighthouse-lab/app/index.html",
+		"/opt/pwa-training-labs/lighthouse-lab/app/service-worker.js",
+		"/opt/pwa-training-labs/lighthouse-lab/app/manifest.json",
+		"/opt/pwa-training-labs/lighthouse-lab/app/css/main.css",
+		"/opt/pwa-training-labs/cache-api-lab/app/index.html",
+		"/opt/pwa-training-labs/cache-api-lab/app/service-worker.js",
+		"/opt/pwa-training-labs/cache-api-lab/app/pages/offline.html",
+		"/opt/pwa-training-labs/cache-api-lab/app/pages/404.html",
+		"/opt/pwa-training-labs/cache-api-lab/app/pages/post6.html",
+		"/opt/pwa-training-labs/cache-api-lab/solution/service-worker.js",
+		"/opt/pwa-training-labs/cache-api-lab/solution/pages/404.html",
+		"/opt/pwa-training-labs/cache-api-lab/app/test/test1.html",
+		"/opt/requirements.mdown",
+		"/opt/baffle-ui/WebUI/src/sw.js",
+		"/opt/pwa-training-labs/CONTRIBUTING.md",
+		"/opt/pwa-training-labs/fetch-api-lab/06-post-requests/js/main.js",
+		"/opt/pwa-training-labs/fetch-api-lab/05-head-requests/echo-servers/echo-server-cors.js",
+		"/opt/pwa-training-labs/service-worker-lab/app/service-worker.js",
+		"/opt/pwa-training-labs/fetch-api-lab/app/js/main.js",
+		"/opt/pwa-training-labs/lab.sublime-project",
+		"/opt/pwa-training-labs/fetch-api-lab/app/echo-servers/echo-server-cors.js",
+		"/opt/pwa-training-labs/fetch-api-lab/05-head-requests/js/main.js",
+		"/opt/pwa-training-labs/service-worker-lab/app/js/another.js",
+		"/opt/pwa-training-labs/service-worker-lab/app/below/kitten/index.html",
+		"/Users/keshav.m/Library/Application Support/Sublime Text 3/Packages/JavaScript Completions/Default (OSX).sublime-keymap",
+		"/opt/pwa-training-labs/service-worker-lab/app/below/service-worker.js",
+		"/opt/pwa-training-labs/service-worker-lab/app/below/another.html",
+		"/opt/pwa-training-labs/service-worker-lab/.eslintrc",
+		"/opt/pwa-training-labs/lighthouse-lab/solution/manifest.json",
+		"/opt/pwa-training-labs/google-analytics-lab/app/manifest.json",
+		"/opt/pwa-training-labs/google-analytics-lab/solution/manifest.json",
+		"/opt/pwa-training-labs/service-worker-lab/app/test/test-registered.html",
+		"/opt/baffle-ui/WebUI/src/app/index.config.js",
+		"/opt/baffle-ui/WebUI/src/offline.html",
+		"/opt/baffle-ui/WebUI/src/offline/offline.css",
+		"/opt/baffle-ui/WebUI/src/offline/offline.js",
+		"/opt/baffle-ui/WebUI/src/app/less/custom.less",
+		"/opt/baffle-ui/WebUI/src/app/views/main/dashboard.html",
+		"/opt/baffle-ui/WebUI/src/app/index.module.js",
+		"/Users/keshav.m/Documents/Angular_JS_Best_Practice.md",
+		"/opt/baffle-ui/WebUI/.eslintrc",
+		"/opt/baffle-ui/WebUI/src/app/app.interceptor.js",
+		"/opt/baffle-ui/WebUI/src/app/controllers/user.controller.js",
+		"/opt/baffle-ui/WebUI/gulp/build.js",
+		"/opt/baffle-ui/WebUI/gulp/inject.js",
+		"/opt/baffle-ui/WebUI/gulp/scripts.js",
+		"/opt/baffle-ui/WebUI/gulp/conf.js",
+		"/opt/baffle-ui/WebUI/gulp/styles.js",
+		"/opt/baffle-ui/WebUI/src/index.html",
+		"/Users/keshav.m/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/Default (OSX).sublime-keymap",
+		"/opt/baffle-ui/WebUI/src/app/index.run.js",
+		"/opt/baffle-ui/WebUI/.jshintrc",
+		"/Users/keshav.m/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/keshav.m/Library/Application Support/Sublime Text 3/Packages/ESLint/ESLint.sublime-settings",
+		"/Users/keshav.m/Library/Application Support/Sublime Text 3/Packages/User/ESLint.sublime-settings",
+		"/opt/baffle-ui/WebUI/src/app/chart.config.js",
+		"/Users/keshav.m/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/Users/keshav.m/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/opt/baffle-ui/WebUI/src/app/controllers/application.controller.js",
+		"/opt/baffle-ui/WebUI/src/app/app.messages.js",
+		"/Users/keshav.m/Library/Application Support/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/opt/baffle-ui/WebUI/gulp-with-browserify/styles.js",
+		"/opt/baffle-ui/WebUI/gulp-with-browserify/server.js",
+		"/opt/baffle-ui/WebUI/gulpfile.js",
+		"/opt/baffle-ui/WebUI/src/app/views/user/change_password.html",
+		"/opt/baffle-ui/WebUI/src/app/directives/focus.directive.js",
+		"/opt/baffle-ui/WebUI/src/app/views/report/compliance.html",
+		"/opt/baffle-ui/WebUI/src/app/views/report/entitlement.html",
+		"/opt/baffle-ui/WebUI/src/app/views/report/system.html",
+		"/opt/baffle-ui/WebUI/src/app/app.constant.js",
+		"/opt/baffle-ui/WebUI/src/app/controllers/home.controller.js",
+		"/opt/baffle-ui/WebUI/src/app/controllers/configuration.controller.js",
+		"/opt/baffle-ui/WebUI/src/app/views/policy/list.html",
+		"/opt/baffle-ui/WebUI/src/app/views/servlet/list.html",
+		"/opt/baffle-ui/WebUI/src/app/views/keystore/list.html",
+		"/opt/baffle-ui/WebUI/src/app/views/database/list.html",
+		"/opt/baffle-ui/WebUI/src/app/views/application/list.html",
+		"/opt/baffle-ui/WebUI/README.md",
+		"/opt/baffle-ui/WebUI/src/app/views/configuration/system.html",
+		"/opt/baffle-ui/WebUI/src/app/services/stomp.service.js",
+		"/opt/baffle-ui/WebUI/src/app/controllers/servlet.controller.js",
+		"/opt/baffle-ui/WebUI/src/app/services/application.service.js",
+		"/opt/baffle-ui/WebUI/src/app/views/servlet/node.html",
+		"/opt/baffle-ui/WebUI/src/app/views/templates/add_node.html",
+		"/opt/baffle-ui/WebUI/src/app/controllers/database.controller.js",
+		"/Users/keshav.m/Downloads/BaffleManager UI Overview.md",
+		"/Users/keshav.m/Desktop/app.sh",
+		"/Users/keshav.m/Desktop/db.sh",
+		"/opt/baffle-ui/WebUI/src/app/controllers/node.controller.js",
+		"/opt/baffle-ui/WebUI/src/app/views/templates/deploy_cluster.html",
+		"/opt/baffle-ui/WebUI/src/app/controllers/servlet.modal.controller.js",
+		"/opt/baffle-ui/WebUI/src/app/services/servlet.service.js",
+		"/opt/baffle-ui/WebUI/src/app/controllers/report.controller.js",
+		"/opt/parixan/utility.js",
+		"/opt/parixan/table.js",
+		"/Users/keshav.m/Documents/st3 license",
+		"/Users/keshav.m/Downloads/BaffleManager UI Overview.html",
+		"/Users/keshav.m/Downloads/UI Overview (1).md",
+		"/Users/keshav.m/Documents/credentials",
+		"/opt/baffle-ui/WebUI/src/app/views/main/table.html",
+		"/opt/baffle-ui/WebUI/src/app/views/user/list.html",
+		"/opt/baffle-ui/WebUI/src/app/views/user/detail.html",
+		"/opt/baffle-ui/WebUI/src/app/views/wizard/email.html",
+		"/opt/baffle-ui/WebUI/src/app/controllers/wizard.controller.js",
+		"/opt/-.txt",
+		"/opt/baffle-ui/WebUI/src/app/controllers/main.controller.js",
+		"/opt/baffle-ui/WebUI/src/app/directives/updateParent.directive.js",
+		"/opt/baffle-ui/WebUI/src/app/directives/permission.directive.js",
+		"/opt/baffle-ui/WebUI/src/app/directives/stepper.directive.js",
+		"/opt/baffle-ui/WebUI/src/app/views/user/register.html",
+		"/opt/baffle-ui/WebUI/src/.jshintrc",
+		"/opt/baffle-ui/WebUI/src/app/directives/showArrow.directive.js",
+		"/opt/baffle-ui/WebUI/src/app/directives/uniqueness.directive.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"addProducts",
+			"idb",
+			"indexDB",
+			"]\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "service-worker-lab/app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2094,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1177,
+								1177
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2055,
+										2056
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1113,
+										1114
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 787.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clipboard_manager":
+	{
+		"height": 124.0
+	},
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"output.git":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "lab.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mani",
+				"pwa-training-labs/lighthouse-lab/solution/manifest.json"
+			],
+			[
+				"manifes",
+				"pwa-training-labs/google-analytics-lab/app/manifest.json"
+			],
+			[
+				"keysto",
+				"src/app/controllers/keystore.controller.js"
+			],
+			[
+				"cust",
+				"src/app/less/custom.less"
+			],
+			[
+				"user",
+				"src/app/controllers/user.controller.js"
+			],
+			[
+				"index",
+				"src/index.html"
+			],
+			[
+				"index.",
+				"src/app/index.config.js"
+			],
+			[
+				"app.inte",
+				"src/app/app.interceptor.js"
+			],
+			[
+				"index.co",
+				"src/app/index.config.js"
+			],
+			[
+				"index.con",
+				"src/app/index.config.js"
+			],
+			[
+				"chart",
+				"src/app/chart.config.js"
+			],
+			[
+				"home",
+				"src/app/controllers/home.controller.js"
+			],
+			[
+				"add",
+				"src/app/views/templates/add_node.html"
+			],
+			[
+				"nodel",
+				"src/app/views/servlet/node.html"
+			],
+			[
+				"list",
+				"src/app/views/servlet/list.html"
+			],
+			[
+				"serve",
+				"src/app/controllers/servlet.controller.js"
+			],
+			[
+				"data",
+				"src/app/controllers/database.controller.js"
+			],
+			[
+				"appli",
+				"src/app/controllers/application.controller.js"
+			],
+			[
+				"applica",
+				"src/app/services/application.service.js"
+			],
+			[
+				"home.",
+				"src/app/controllers/home.controller.js"
+			],
+			[
+				"atomp.ser",
+				"src/app/services/stomp.service.js"
+			],
+			[
+				"servlet",
+				"src/app/controllers/servlet.modal.controller.js"
+			],
+			[
+				"deplo",
+				"src/app/views/templates/deploy_cluster.html"
+			],
+			[
+				"table",
+				"src/app/views/main/table.html"
+			],
+			[
+				"node",
+				"src/app/views/servlet/node.html"
+			],
+			[
+				"stepp",
+				"src/app/directives/stepper.directive.js"
+			],
+			[
+				"rege",
+				"src/app/views/user/register.html"
+			],
+			[
+				"node.con",
+				"src/app/controllers/node.controller.js"
+			],
+			[
+				"add_no",
+				"src/app/views/templates/add_node.html"
+			],
+			[
+				"gra",
+				"src/app/views/templates/graph_metrics.html"
+			],
+			[
+				"app.co",
+				"src/app/app.constant.js"
+			],
+			[
+				"config",
+				"src/app/controllers/configuration.controller.js"
+			],
+			[
+				"injec",
+				"gulp/inject.js"
+			],
+			[
+				"app.con",
+				"src/app/app.constant.js"
+			],
+			[
+				"appl",
+				"src/app/controllers/application.controller.js"
+			],
+			[
+				"graph",
+				"src/app/views/main/graph.html"
+			],
+			[
+				"chart.con",
+				"src/app/chart.config.js"
+			],
+			[
+				"main",
+				"src/app/controllers/main.controller.js"
+			],
+			[
+				"update",
+				"src/app/directives/updateParent.directive.js"
+			],
+			[
+				"database",
+				"src/app/controllers/database.controller.js"
+			],
+			[
+				"stomp",
+				"src/app/services/stomp.service.js"
+			],
+			[
+				"detil",
+				"src/app/views/servlet/detail.html"
+			],
+			[
+				"datali",
+				"src/app/views/database/list.html"
+			],
+			[
+				"index.ru",
+				"src/app/index.run.js"
+			],
+			[
+				"index.run",
+				"src/app/index.run.js"
+			],
+			[
+				"applis",
+				"src/app/views/application/list.html"
+			],
+			[
+				"serv",
+				"src/app/controllers/servlet.controller.js"
+			],
+			[
+				"confi",
+				"src/app/controllers/configuration.controller.js"
+			],
+			[
+				"keystli",
+				"src/app/views/keystore/list.html"
+			],
+			[
+				"key",
+				"src/app/controllers/keystore.controller.js"
+			],
+			[
+				"databs",
+				"src/app/controllers/database.controller.js"
+			],
+			[
+				"user.mo",
+				"src/app/controllers/user.modal.controller.js"
+			],
+			[
+				"inde",
+				"src/app/index.config.js"
+			],
+			[
+				"forgot",
+				"src/app/views/user/forgot_password.html"
+			],
+			[
+				"policy.con",
+				"src/app/controllers/policy.controller.js"
+			],
+			[
+				"regi",
+				"src/app/views/user/register.html"
+			],
+			[
+				"registe",
+				"src/app/views/user/register.html"
+			],
+			[
+				"polic",
+				"src/app/services/policy.service.js"
+			],
+			[
+				"base.less",
+				"src/app/less/base.less"
+			],
+			[
+				"custom",
+				"src/app/less/custom.less"
+			],
+			[
+				"auth.ser",
+				"src/app/services/auth.service.js"
+			],
+			[
+				"regist",
+				"src/app/views/user/register.html"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"add_n",
+				"src/app/views/templates/add_node.html"
+			],
+			[
+				"configu",
+				"src/app/controllers/configuration.controller.js"
+			],
+			[
+				"forg",
+				"src/app/views/user/forgot_password.html"
+			],
+			[
+				"chat",
+				"src/app/chart.config.js"
+			],
+			[
+				"home.mod",
+				"src/app/controllers/home.modal.controller.js"
+			],
+			[
+				"wizardun",
+				"src/app/views/wizard/unblock.html"
+			],
+			[
+				"wizrd",
+				"src/app/views/wizard/init.html"
+			],
+			[
+				"edit",
+				"src/app/views/templates/edit_node.html"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"pakcg",
+				"package.json"
+			],
+			[
+				"index.conf",
+				"src/app/index.config.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"enry",
+				"src/app/views/application/encryption.html"
+			],
+			[
+				"classi",
+				"src/app/views/application/classification.html"
+			],
+			[
+				"enroll",
+				"src/app/views/templates/enroll_db.html"
+			],
+			[
+				"user.con",
+				"src/app/controllers/user.controller.js"
+			],
+			[
+				"authe",
+				"src/app/services/auth.service.js"
+			],
+			[
+				"wizard",
+				"src/app/controllers/wizard.controller.js"
+			],
+			[
+				"policy",
+				"src/app/services/policy.service.js"
+			],
+			[
+				"",
+				"src/app/controllers/wizard.controller.js"
+			],
+			[
+				"auth.",
+				"src/app/services/auth.service.js"
+			],
+			[
+				"regsi",
+				"src/app/views/user/register.html"
+			],
+			[
+				"servletlis",
+				"src/app/views/servlet/list.html"
+			],
+			[
+				"uplo",
+				"src/app/views/wizard/upload.html"
+			],
+			[
+				"en",
+				"src/app/views/application/encryption.html"
+			],
+			[
+				"class",
+				"src/app/views/templates/classify_app.html"
+			],
+			[
+				"app.",
+				"src/app/app.constant.js"
+			],
+			[
+				"uni",
+				"src/app/services/unique.service.js"
+			],
+			[
+				"auth",
+				"src/app/services/auth.service.js"
+			],
+			[
+				"base",
+				"src/app/less/base.less"
+			],
+			[
+				"add_",
+				"src/app/views/templates/add_node.html"
+			],
+			[
+				"encry",
+				"src/app/views/application/encryption.html"
+			],
+			[
+				"depl",
+				"src/app/views/templates/deploy_cluster.html"
+			],
+			[
+				"login",
+				"src/app/views/user/login.html"
+			],
+			[
+				"app.me",
+				"src/app/app.messages.js"
+			],
+			[
+				"polic.mo",
+				"src/app/controllers/policy.modal.controller.js"
+			],
+			[
+				"app",
+				"src/app/app.constant.js"
+			],
+			[
+				"deplu",
+				"src/app/views/templates/deploy_cluster.html"
+			],
+			[
+				"node.",
+				"src/app/controllers/node.controller.js"
+			],
+			[
+				"insp",
+				"src/app/inspinia.js"
+			],
+			[
+				"match",
+				"src/app/directives/matchWindowHeight.directive.js"
+			],
+			[
+				"logi",
+				"src/app/views/user/login.html"
+			],
+			[
+				"authser",
+				"src/app/services/auth.service.js"
+			],
+			[
+				"top_nav",
+				"src/app/views/common/top_navigation.html"
+			],
+			[
+				"content",
+				"src/app/views/common/content.html"
+			],
+			[
+				"base.le",
+				"src/app/less/base.less"
+			],
+			[
+				"regis",
+				"src/app/views/user/register.html"
+			],
+			[
+				"user.se",
+				"src/app/services/user.service.js"
+			],
+			[
+				"authse",
+				"src/app/services/auth.service.js"
+			],
+			[
+				"main.",
+				"src/app/controllers/main.controller.js"
+			],
+			[
+				"hm",
+				"src/app/controllers/home.controller.js"
+			],
+			[
+				"repo",
+				"src/app/controllers/report.controller.js"
+			],
+			[
+				"report",
+				"src/app/controllers/report.controller.js"
+			],
+			[
+				"vara",
+				"src/app/less/variables.less"
+			],
+			[
+				"det",
+				"src/app/views/policy/detail.html"
+			],
+			[
+				"enryp",
+				"src/app/views/application/encryption.html"
+			],
+			[
+				"applic",
+				"src/app/controllers/application.controller.js"
+			],
+			[
+				"unen",
+				"src/app/views/templates/unenroll_db.html"
+			],
+			[
+				"unenrol",
+				"src/app/views/templates/unenroll_app.html"
+			],
+			[
+				"app.mess",
+				"src/app/app.messages.js"
+			],
+			[
+				"db",
+				"src/app/controllers/database.modal.controller.js"
+			],
+			[
+				"unenroll",
+				"src/app/views/templates/unenroll_db.html"
+			],
+			[
+				"databa",
+				"src/app/controllers/database.controller.js"
+			],
+			[
+				"filter",
+				"src/app/app.filter.js"
+			],
+			[
+				"app.cons",
+				"src/app/app.constant.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/opt/baffle-ui/WebUI/baffle.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
