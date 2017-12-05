@@ -30,8 +30,6 @@ var app = (function() {
     return;
   }
 
-
-
   function fetchJSON() {
     fetch('examples/animals.json')
     .then(validateResponse)
